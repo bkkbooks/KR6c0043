@@ -1,0 +1,345 @@
+canonical_identifier: bkk:krp/KR6c0043/v1
+canonical_location: https://kanripo.org/bkk/KR6c0043/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 金剛般若波羅蜜經註解
+  identifiers:
+    alt_id:
+    - T33n1703
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T33/T33n1703.xml
+    old_id: T33n1703
+  edition:
+    short: bkk
+editions:
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: 宮
+  label: 宮
+  source_xml_id: wit1
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6c0043_000.yaml, hash: 'sha256:567652965a6b30b50a9d393a7bcd1a2f58766b3002096227dd16f94fed8618f1'}
+  - {seq: 1, filename: KR6c0043_001.yaml, hash: 'sha256:1fe872467aa0e23b550f8e844f575eb511535c995ac51e4c513ab9d7f817b5c8'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6c0043_001.markers.yaml, hash: 'sha256:9b0f4b79c8b25eb8489934dd659fe3159f277c4ff06e3e05f97f65d026fd59a2'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6c0043_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 14764
+  label: 金剛般若波羅蜜經註解
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0043_T_001-mulu-1
+    span:
+    - body
+    - 374
+    - 374
+  label: 序分
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0043_T_001-mulu-2
+    span:
+    - body
+    - 2188
+    - 2188
+  label: 正宗分
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0043_T_001-mulu-3
+    span:
+    - body
+    - 2188
+    - 2188
+  label: 1 斷求佛行施住相疑
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0043_T_001-mulu-4
+    span:
+    - body
+    - 2410
+    - 2410
+  label: 2 斷因果俱深無信疑
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0043_T_001-mulu-5
+    span:
+    - body
+    - 3173
+    - 3173
+  label: 3 斷無相云何得說疑
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0043_T_001-mulu-6
+    span:
+    - body
+    - 3791
+    - 3791
+  label: 4 斷聲聞得果是取疑
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0043_T_001-mulu-7
+    span:
+    - body
+    - 4502
+    - 4502
+  label: 5 斷釋迦然燈取說疑
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0043_T_001-mulu-8
+    span:
+    - body
+    - 4649
+    - 4649
+  label: 6 斷嚴土違於不取疑
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0043_T_001-mulu-9
+    span:
+    - body
+    - 4868
+    - 4868
+  label: 7 斷受得報身有取疑
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0043_T_001-mulu-10
+    span:
+    - body
+    - 6563
+    - 6563
+  label: 8 斷持說未脫苦果疑
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0043_T_001-mulu-11
+    span:
+    - body
+    - 7111
+    - 7111
+  label: 9 斷能證無體非因疑
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0043_T_001-mulu-12
+    span:
+    - body
+    - 7311
+    - 7311
+  label: 10 斷真如有得無得疑
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0043_T_001-mulu-13
+    span:
+    - body
+    - 8561
+    - 8561
+  label: 11 斷安住降伏存我疑
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0043_T_001-mulu-14
+    span:
+    - body
+    - 8860
+    - 8860
+  label: 12 斷佛因是有菩薩疑
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0043_T_001-mulu-15
+    span:
+    - body
+    - 9206
+    - 9206
+  label: 13 斷無因則無佛法疑
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0043_T_001-mulu-16
+    span:
+    - body
+    - 9642
+    - 9642
+  label: 14 斷無人度生嚴土疑
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0043_T_001-mulu-17
+    span:
+    - body
+    - 9852
+    - 9852
+  label: 15 斷諸佛不見諸法疑
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0043_T_001-mulu-18
+    span:
+    - body
+    - 10337
+    - 10337
+  label: 16 斷福德例心顛倒疑
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0043_T_001-mulu-19
+    span:
+    - body
+    - 10521
+    - 10521
+  label: 17 斷無為何有相好疑
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0043_T_001-mulu-20
+    span:
+    - body
+    - 10778
+    - 10778
+  label: 18 斷無身何以說法疑
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0043_T_001-mulu-21
+    span:
+    - body
+    - 11169
+    - 11169
+  label: 19 斷無法如何修證疑
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0043_T_001-mulu-22
+    span:
+    - body
+    - 11478
+    - 11478
+  label: 20 斷所說無記非因疑
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0043_T_001-mulu-23
+    span:
+    - body
+    - 11682
+    - 11682
+  label: 21 斷平等云何度生疑
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0043_T_001-mulu-24
+    span:
+    - body
+    - 11973
+    - 11973
+  label: 22 斷以相比知真佛疑
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0043_T_001-mulu-25
+    span:
+    - body
+    - 12256
+    - 12256
+  label: 23 斷佛果非關福相疑
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0043_T_001-mulu-26
+    span:
+    - body
+    - 12746
+    - 12746
+  label: 24 斷化身出現受福疑
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0043_T_001-mulu-27
+    span:
+    - body
+    - 12890
+    - 12890
+  label: 25 斷法身化身一異疑
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0043_T_001-mulu-28
+    span:
+    - body
+    - 13860
+    - 13860
+  label: 26 斷化身說法無福疑
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0043_T_001-mulu-29
+    span:
+    - body
+    - 14101
+    - 14101
+  label: 27 斷入寂如何說法疑
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0043_T_001-mulu-30
+    span:
+    - body
+    - 14489
+    - 14489
+  label: 流通分
+  type: mulu
+  level: 1
+hash: sha256:0e8bb56a88e9ee25d31d032cf3dbf05cb866c81d5ca7eb733541b54f42b2ad65
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
